@@ -17,8 +17,9 @@
 ### 👤 Sobre mí
 
 - 🎓 Cursando el **Grado Superior en Administración de Sistemas Informáticos en Red (ASIR)** en el *Centro Zaidín Vergeles* (Granada) [2024 - Actualidad].
-- 💼 Experiencia como **Técnica de Soporte Informático Junior** en *Veridata* (La Zubia, Granada).
-- 👨‍🔧 Experiencia versátil previa en otros sectores que aporta **adaptabilidad, orientación a soluciones y trabajo en equipo**.
+- 💼 Actualmente trabajando como **Técnica de Soporte Informático Junior** en *Veridata* (La Zubia, Granada) [2025 - Actualidad].
+- 📞 Gestión de soporte técnico de primer nivel (CAU), atención a usuarios, configuración de redes, direcciones IP e instalación/mantenimiento de equipos.
+- 👨‍🔧 Experiencia previa versátil en otros sectores que me aporta **gran adaptabilidad, orientación a problemas y trabajo en equipo**.
 - 🚀 *Always eager to learn new skills and grow in the IT world!*
 
 ---
@@ -58,7 +59,8 @@
   <table>
     <tr>
       <td width="140" align="center">
-        <img src="https://images.credly.com/images/223788a1-ddfb-4ebc-b3a7-5426b38c2f1f/CCNAITN__1_.png" width="110" alt="Cisco CCNA ITN" />
+        <!-- Reemplaza ./ccna-itn.png por el nombre exacto de la imagen que subas a tu repositorio -->
+        <img src="./ccna-itn.png" width="110" alt="Cisco CCNA ITN" />
       </td>
       <td>
         <h4>CCNA: Introduction to Networks — Cisco Networking Academy</h4>
@@ -68,7 +70,8 @@
     </tr>
     <tr>
       <td width="140" align="center">
-        <img src="https://images.credly.com/images/3b342410-68e5-4fef-93e1-2c069e2c608b/CCNA_SRWE__1_.png" width="110" alt="Cisco CCNA SRWE" />
+        <!-- Reemplaza ./ccna-srwe.png por el nombre exacto de la imagen que subas a tu repositorio -->
+        <img src="./ccna-srwe.png" width="110" alt="Cisco CCNA SRWE" />
       </td>
       <td>
         <h4>CCNA: Switching, Routing, and Wireless Essentials — Cisco Networking Academy</h4>
@@ -77,6 +80,16 @@
       </td>
     </tr>
   </table>
+</div>
+
+---
+
+### 📈 Estadísticas de GitHub
+
+<div align="center">
+
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=bgarciaa181&layout=compact&theme=dark&hide_border=true&title_color=00C7B7)
+
 </div>
 
 ---
@@ -93,6 +106,11 @@
 ---
 
 <div align="center">
+
+<!-- Imagen / GIF estilo Setup Pixel Art -->
+<img src="https://i.pinimg.com/originals/a0/0b/22/a00b22a012975e53be8657dd6ebc37d0.gif" width="100%" max-width="600px" alt="Pixel Art Setup" />
+
+<br/><br/>
 
 💬 *¿Quieres colaborar o contactar conmigo? Escríbeme a **[bea.garciaa19@gmail.com](mailto:bea.garciaa19@gmail.com)** o conecta en **[LinkedIn](https://www.linkedin.com/in/tu-usuario-linkedin)**.*
 
