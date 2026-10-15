@@ -59,8 +59,7 @@
   <table>
     <tr>
       <td width="140" align="center">
-        <!-- Reemplaza ./ccna-itn.png por el nombre exacto de la imagen que subas a tu repositorio -->
-        <img src="./ccna-itn.png" width="110" alt="Cisco CCNA ITN" />
+        <img width="600" height="600" alt="ccna-introduction-to-networks" src="https://github.com/user-attachments/assets/b25245d1-bda0-4203-b051-c6183588ad54" />
       </td>
       <td>
         <h4>CCNA: Introduction to Networks — Cisco Networking Academy</h4>
@@ -69,9 +68,8 @@
       </td>
     </tr>
     <tr>
-      <td width="140" align="center">
-        <!-- Reemplaza ./ccna-srwe.png por el nombre exacto de la imagen que subas a tu repositorio -->
-        <img src="./ccna-srwe.png" width="110" alt="Cisco CCNA SRWE" />
+      <td width="140" align="center"
+        <img width="600" height="600" alt="ccna-switching-routing-and-wireless-essentials 1" src="https://github.com/user-attachments/assets/d6193df7-8b92-4d64-9b58-04d14db0e2f2" />
       </td>
       <td>
         <h4>CCNA: Switching, Routing, and Wireless Essentials — Cisco Networking Academy</h4>
@@ -84,7 +82,7 @@
 
 ---
 
-### 📈 Estadísticas de GitHub
+### 📈 Estadísticas
 
 <div align="center">
 
@@ -107,8 +105,8 @@
 
 <div align="center">
 
-<!-- Imagen / GIF estilo Setup Pixel Art -->
-<img src="https://i.pinimg.com/originals/a0/0b/22/a00b22a012975e53be8657dd6ebc37d0.gif" width="100%" max-width="600px" alt="Pixel Art Setup" />
+
+<img width="1920" height="1080" alt="225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9" src="https://github.com/user-attachments/assets/ac31c5a8-9a4c-43ba-b996-41a38198236b" />
 
 <br/><br/>
 
