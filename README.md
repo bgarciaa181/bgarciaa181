@@ -59,7 +59,7 @@
   <table>
     <tr>
       <td width="140" align="center">
-        <img width="600" height="600" alt="ccna-introduction-to-networks" src="https://github.com/user-attachments/assets/b25245d1-bda0-4203-b051-c6183588ad54" />
+        <img width="110" alt="ccna-introduction-to-networks" src="https://github.com/user-attachments/assets/b25245d1-bda0-4203-b051-c6183588ad54" />
       </td>
       <td>
         <h4>CCNA: Introduction to Networks — Cisco Networking Academy</h4>
@@ -68,8 +68,8 @@
       </td>
     </tr>
     <tr>
-      <td width="140" align="center"
-        <img width="600" height="600" alt="ccna-switching-routing-and-wireless-essentials 1" src="https://github.com/user-attachments/assets/d6193df7-8b92-4d64-9b58-04d14db0e2f2" />
+      <td width="140" align="center">
+        <img width="110" alt="ccna-switching-routing-and-wireless-essentials 1" src="https://github.com/user-attachments/assets/d6193df7-8b92-4d64-9b58-04d14db0e2f2" />
       </td>
       <td>
         <h4>CCNA: Switching, Routing, and Wireless Essentials — Cisco Networking Academy</h4>
