@@ -7,7 +7,7 @@
 
 [![Gmail](https://img.shields.io/badge/GMAIL-bea.garciaa19%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bea.garciaa19@gmail.com)
 [![Credly](https://img.shields.io/badge/CREDLY-MIS_INSIGNIAS-FF6F00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/bea-garcia.f87eb17b)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONECTAR-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tu-usuario-linkedin)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-[CONECTAR](https://www.linkedin.com/in/beatriz-garcia-cogolludo-898102362/)-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tu-usuario-linkedin)
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-MI_WEB-00C7B7?style=for-the-badge&logo=github&logoColor=white)](https://bgarciaa181.github.io)
 
 </div>
@@ -110,6 +110,6 @@
 
 <br/><br/>
 
-💬 *¿Quieres colaborar o contactar conmigo? Escríbeme a **[bea.garciaa19@gmail.com](mailto:bea.garciaa19@gmail.com)** o conecta en **[LinkedIn](https://www.linkedin.com/in/tu-usuario-linkedin)**.*
+💬 *¿Quieres colaborar o contactar conmigo? Escríbeme a **[bea.garciaa19@gmail.com](mailto:bea.garciaa19@gmail.com)** o conecta en **[LinkedIn][(https://www.linkedin.com/in/tu-usuario-linkedin)](https://www.linkedin.com/in/beatriz-garcia-cogolludo-898102362/)**.*
 
 </div>
