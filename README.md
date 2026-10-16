@@ -5,7 +5,7 @@
 
 # Beatriz Garcia Cogolludo
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=00C7B7&center=true&vCenter=true&width=700&height=50&lines=Network+%26+Systems+Administrator+Student;IT+Technical+Support+Junior;Linux+%7C+Networking+%7C+PowerShell;Always+learning+new+technologies)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=0077B5&center=true&vCenter=true&width=700&height=50&lines=Network+%26+Systems+Administrator+Student;IT+Technical+Support+Junior;Linux+%7C+Networking+%7C+PowerShell;Always+learning+new+technologies)](https://git.io/typing-svg)
 
 📍 **Granada, España**
 
@@ -42,16 +42,7 @@
 
 #### Certificaciones Cisco & Redes 🏅
 [![Cisco CCNA](https://img.shields.io/badge/CISCO-CCNA%20VERIFIED-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)](https://www.credly.com/users/bea-garcia.f87eb17b)
-![IP](https://img.shields.io/badge/INTERNET_PROTOCOL_(IP)-VERIFIED-FF6F00?style=for-the-badge&logo=credly&logoColor=white)
-![IPv6](https://img.shields.io/badge/IPV6-VERIFIED-FF6F00?style=for-the-badge&logo=credly&logoColor=white)
-![Subnetting](https://img.shields.io/badge/SUBNETTING-VERIFIED-FF6F00?style=for-the-badge&logo=credly&logoColor=white)
-![Route Management](https://img.shields.io/badge/ROUTE_MANAGEMENT-VERIFIED-FF6F00?style=for-the-badge&logo=credly&logoColor=white)
-![Packet Switching](https://img.shields.io/badge/PACKET_SWITCHING-VERIFIED-FF6F00?style=for-the-badge&logo=credly&logoColor=white)
-![Switchover](https://img.shields.io/badge/SWITCHOVER-VERIFIED-FF6F00?style=for-the-badge&logo=credly&logoColor=white)
-![Network Management](https://img.shields.io/badge/NETWORK_MANAGEMENT-VERIFIED-FF6F00?style=for-the-badge&logo=credly&logoColor=white)
-![Ethernet](https://img.shields.io/badge/ETHERNET-VERIFIED-FF6F00?style=for-the-badge&logo=credly&logoColor=white)
-![Security](https://img.shields.io/badge/SECURITY-VERIFIED-FF6F00?style=for-the-badge&logo=credly&logoColor=white)
-![Access Control](https://img.shields.io/badge/ACCESS_CONTROL-VERIFIED-FF6F00?style=for-the-badge&logo=credly&logoColor=white)
+![Networking Skills](https://img.shields.io/badge/SKILLS-Routing%20%7C%20Switching%20%7C%20IPv4%2FIPv6%20%7C%20Subnetting-FF6F00?style=for-the-badge&logo=credly&logoColor=white)
 
 #### Sistemas Operativos, Entornos y Virtualización
 ![Linux](https://img.shields.io/badge/LINUX-FCC624?style=for-the-badge&logo=linux&logoColor=black)
