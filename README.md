@@ -1,9 +1,16 @@
 <div align="center">
 
+
+<div align="center">
+
 # Beatriz Garcia Cogolludo
-### Network & Systems Administrator Student | IT Technical Support Junior
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=00C7B7&center=true&vCenter=true&width=700&height=50&lines=Network+%26+Systems+Administrator+Student;IT+Technical+Support+Junior;Linux+%7C+Networking+%7C+PowerShell;Always+learning+new+technologies)](https://git.io/typing-svg)
 
 📍 **Granada, España**
+
+</div>
+
 
 [![Gmail](https://img.shields.io/badge/GMAIL-bea.garciaa19%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bea.garciaa19@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONECTAR-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/beatriz-garcia-cogolludo-898102362/)
@@ -12,13 +19,22 @@
 
 ---
 
+
 ### 👤 Sobre mí
 
-- 🎓 Cursando el **Grado Superior en Administración de Sistemas Informáticos en Red (ASIR)** en el *Centro Zaidín Vergeles* (Granada) [2024 - Actualidad].
-- 💼 Actualmente trabajando como **Técnica de Soporte Informático Junior** en *Veridata* (La Zubia, Granada) [2025 - Actualidad].
-- 📞 Gestión de soporte técnico de primer nivel (CAU), atención a usuarios, configuración de redes, direcciones IP e instalación/mantenimiento de equipos.
-- 👨‍🔧 Experiencia previa versátil en otros sectores que me aporta **gran adaptabilidad, orientación a problemas y trabajo en equipo**.
-- 🚀 *Always eager to learn new skills and grow in the IT world!*
+<div align="center">
+
+[![About Me](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=18&duration=2800&pause=900&color=00C7B7&center=true&vCenter=true&width=700&height=45&lines=Learning.+Configuring.+Troubleshooting.;Network+Administration;Systems+%26+IT+Technical+Support;Always+learning+new+technologies)](https://git.io/typing-svg)
+
+</div>
+
+ 🎓 Cursando el **Grado Superior en Administración de Sistemas Informáticos en Red**  
+  *Centro Zaidín Vergeles* (Granada) · [2024–Actualidad].
+
+ 💼 Actualmente trabajando como **Técnica de Soporte Informático Junior**  
+  *Veridata* (La Zubia, Granada) · [2025–Actualidad].
+
+ 🚀 *Always eager to learn new skills and grow in the IT world!*
 
 ---
 
@@ -41,6 +57,8 @@
 ![Linux](https://img.shields.io/badge/LINUX-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/WINDOWS-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Vagrant](https://img.shields.io/badge/VAGRANT-1563FF?style=for-the-badge&logo=vagrant&logoColor=white)
+![VirtualBox](https://img.shields.io/badge/VIRTUALBOX-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
+
 
 #### Scripting, Herramientas y Desarrollo
 ![PowerShell](https://img.shields.io/badge/POWERSHELL-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
@@ -103,9 +121,10 @@
 
 <div align="center">
 
-<img width="100%" alt="Banner final" src="https://github.com/user-attachments/assets/ac31c5a8-9a4c-43ba-b996-41a38198236b" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5ba5ae3e-271b-4839-9798-33543efb9219" />
 
 <br/><br/>
+
 
 💬 *¿Quieres colaborar o contactar conmigo? Escríbeme a **[bea.garciaa19@gmail.com](mailto:bea.garciaa19@gmail.com)** o conecta en **[LinkedIn](https://www.linkedin.com/in/beatriz-garcia-cogolludo-898102362/)**.*
 
