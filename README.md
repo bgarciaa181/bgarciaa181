@@ -9,14 +9,6 @@
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONECTAR-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/beatriz-garcia-cogolludo-898102362/)
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-MI_WEB-00C7B7?style=for-the-badge&logo=github&logoColor=white)](https://bgarciaa181.github.io)
 
-<br/>
-
-<!-- ANIMACIÓN 1: ESFERA DE TECNOLOGÍAS EN MOVIMIENTO -->
-<a href="https://github.com/bgarciaa181">
-  <img src="https://github-readme-tech-stack.vercel.app/api/cards/tech-stack-sphere?slug=bgarciaa181&line1=Linux,Windows,Cisco,Python&line2=PowerShell,Bash,Vagrant,DHCP&line3=HTML5,WordPress,Git,GitHub&theme=dark" alt="Tech Stack Sphere" width="380" />
-</a>
-
-</div>
 
 ---
 
