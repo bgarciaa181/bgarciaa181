@@ -6,9 +6,15 @@
 📍 **Granada, España**
 
 [![Gmail](https://img.shields.io/badge/GMAIL-bea.garciaa19%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bea.garciaa19@gmail.com)
-[![Credly](https://img.shields.io/badge/CREDLY-MIS_INSIGNIAS-FF6F00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/bea-garcia.f87eb17b)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-[CONECTAR](https://www.linkedin.com/in/beatriz-garcia-cogolludo-898102362/)-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tu-usuario-linkedin)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONECTAR-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/beatriz-garcia-cogolludo-898102362/)
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-MI_WEB-00C7B7?style=for-the-badge&logo=github&logoColor=white)](https://bgarciaa181.github.io)
+
+<br/>
+
+<!-- ANIMACIÓN 1: ESFERA DE TECNOLOGÍAS EN MOVIMIENTO -->
+<a href="https://github.com/bgarciaa181">
+  <img src="https://github-readme-tech-stack.vercel.app/api/cards/tech-stack-sphere?slug=bgarciaa181&line1=Linux,Windows,Cisco,Python&line2=PowerShell,Bash,Vagrant,DHCP&line3=HTML5,WordPress,Git,GitHub&theme=dark" alt="Tech Stack Sphere" width="380" />
+</a>
 
 </div>
 
@@ -26,7 +32,7 @@
 
 ### 🛠️ Tecnologías y Herramientas
 
-#### Certificaciones Cisco & Redes (Credly Verified 🏅)
+#### Certificaciones Cisco & Redes 🏅
 [![Cisco CCNA](https://img.shields.io/badge/CISCO-CCNA%20VERIFIED-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)](https://www.credly.com/users/bea-garcia.f87eb17b)
 ![IP](https://img.shields.io/badge/INTERNET_PROTOCOL_(IP)-VERIFIED-FF6F00?style=for-the-badge&logo=credly&logoColor=white)
 ![IPv6](https://img.shields.io/badge/IPV6-VERIFIED-FF6F00?style=for-the-badge&logo=credly&logoColor=white)
@@ -105,11 +111,10 @@
 
 <div align="center">
 
-
-<img width="1920" height="1080" alt="225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9" src="https://github.com/user-attachments/assets/ac31c5a8-9a4c-43ba-b996-41a38198236b" />
+<img width="100%" alt="Banner final" src="https://github.com/user-attachments/assets/ac31c5a8-9a4c-43ba-b996-41a38198236b" />
 
 <br/><br/>
 
-💬 *¿Quieres colaborar o contactar conmigo? Escríbeme a **[bea.garciaa19@gmail.com](mailto:bea.garciaa19@gmail.com)** o conecta en **[LinkedIn][(https://www.linkedin.com/in/tu-usuario-linkedin)](https://www.linkedin.com/in/beatriz-garcia-cogolludo-898102362/)**.*
+💬 *¿Quieres colaborar o contactar conmigo? Escríbeme a **[bea.garciaa19@gmail.com](mailto:bea.garciaa19@gmail.com)** o conecta en **[LinkedIn](https://www.linkedin.com/in/beatriz-garcia-cogolludo-898102362/)**.*
 
 </div>
