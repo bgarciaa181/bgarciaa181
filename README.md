@@ -112,7 +112,8 @@
 
 <div align="center">
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5ba5ae3e-271b-4839-9798-33543efb9219" />
+<img width="1920" height="1080" alt="225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9" src="https://github.com/user-attachments/assets/14826c0c-4374-4b89-a2fb-2bf408a5893c" />
+ />
 
 <br/><br/>
 
