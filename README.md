@@ -24,7 +24,7 @@
 
 <div align="center">
 
-[![About Me](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=18&duration=2800&pause=900&color=00C7B7&center=true&vCenter=true&width=700&height=45&lines=Learning.+Configuring.+Troubleshooting.;Network+Administration;Systems+%26+IT+Technical+Support;Always+learning+new+technologies)](https://git.io/typing-svg)
+[![About Me](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=18&duration=2800&pause=900&color=00C7B7&center=true&vCenter=true&width=700&height=45&lines=Learning.+Configuring.+Troubleshooting.;Network+Administration;Systems+%26+IT+Technical+Support)](https://git.io/typing-svg)
 
 </div>
 
