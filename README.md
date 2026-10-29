@@ -137,4 +137,6 @@
 
 💬 *¿Quieres colaborar o contactar conmigo? Escríbeme a **[bea.garciaa19@gmail.com](mailto:bea.garciaa19@gmail.com)** o conecta en **[LinkedIn](https://www.linkedin.com/in/beatriz-garcia-cogolludo-898102362/)**.*
 
+![visitas](https://komarev.com/ghpvc/?username=bgarciaa181&label=VISITAS&color=00C7B7&style=for-the-badge)
+
 </div>
