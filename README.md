@@ -16,6 +16,9 @@
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONECTAR-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/beatriz-garcia-cogolludo-898102362/)
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-MI_WEB-00C7B7?style=for-the-badge&logo=github&logoColor=white)](https://bgarciaa181.github.io)
 
+<!-- 👀 Contador de visitas al perfil -->
+![Visitas al perfil](https://komarev.com/ghpvc/?username=bgarciaa181&label=VISITAS+AL+PERFIL&color=00C7B7&style=for-the-badge)
+
 
 ---
 
@@ -107,6 +110,20 @@
 | **[Test-sri](https://github.com/bgarciaa181/Test-sri)** | Entorno LAMP con Vagrant y Debian Bookworm. | Shell / Linux |
 | **[practice-dhcp](https://github.com/bgarciaa181/practice-dhcp)** | Prácticas de configuración e implementación de servicios DHCP. | Networking / Shell |
 | **[Trabajo-WordPress](https://github.com/bgarciaa181/Trabajo-WordPress)** | Proyecto de desarrollo web con CMS WordPress. | WordPress |
+
+---
+
+### 🐍 Mis contribuciones en modo Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bgarciaa181/bgarciaa181/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bgarciaa181/bgarciaa181/output/github-snake.svg" />
+  <img alt="Serpiente comiéndose mis contribuciones" src="https://raw.githubusercontent.com/bgarciaa181/bgarciaa181/output/github-snake.svg" />
+</picture>
+
+</div>
 
 ---
 
