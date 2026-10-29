@@ -98,6 +98,8 @@
 
 ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=bgarciaa181&layout=compact&theme=dark&hide_border=true&title_color=00C7B7)
 
+![Racha](https://streak-stats.demolab.com/?user=bgarciaa181&theme=dark&hide_border=true&ring=00C7B7&fire=00C7B7&currStreakLabel=00C7B7&locale=es)
+
 </div>
 
 ---
