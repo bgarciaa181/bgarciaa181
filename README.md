@@ -25,8 +25,7 @@
 - 🎓 Estudio el **Grado Superior de ASIR** en el *Centro Zaidín Vergeles* (Granada) · 2024 - actualidad
 - 💼 Trabajo como **técnica de soporte informático junior** en *Veridata* (La Zubia, Granada) · 2025 - actualidad
 - 🔧 Ahora mismo: LDAP, DNS con BIND, hardening con fail2ban y empezando con Ansible
-- 🐍 Dándole caña a Python este año
-- 🐘 Aprendiendo PHP
+- 🐘 Aprendiendo PHP y Python
 
 ---
 
