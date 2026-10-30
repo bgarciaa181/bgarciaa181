@@ -25,17 +25,81 @@
 - 🎓 Estudio el **Grado Superior de ASIR** en el *Centro Zaidín Vergeles* (Granada) · 2024 - actualidad
 - 💼 Trabajo como **técnica de soporte informático junior** en *Veridata* (La Zubia, Granada) · 2025 - actualidad
 - 🔧 Ahora mismo: LDAP, DNS con BIND, hardening con fail2ban y empezando con Ansible
+- 🐍 Dándole caña a Python este año
 - 🐘 Aprendiendo PHP
 
 ---
 
 ### 🛠️ Tecnologías
 
+> Herramientas y tecnologías con las que trabajo y que me interesan
+
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=linux,debian,ubuntu,windows,bash,powershell,python,php,html,wordpress,git,github&perline=12" />
+<table>
+  <tr>
+    <td align="center" width="110">
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
+      <br/>Python
+    </td>
+    <td align="center" width="110">
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
+      <br/>JavaScript
+    </td>
+    <td align="center" width="110">
+      <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
+      <br/>GitHub
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="65" height="65" />
+      <br/>Linux
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=git" alt="Git" width="65" height="65" />
+      <br/>Git
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="65" height="65" />
+      <br/>HTML
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="65" height="65" />
+      <br/>CSS
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=debian" alt="Debian" width="65" height="65" />
+      <br/>Debian
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=ubuntu" alt="Ubuntu" width="65" height="65" />
+      <br/>Ubuntu
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=windows" alt="Windows" width="65" height="65" />
+      <br/>Windows
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=bash" alt="Bash" width="65" height="65" />
+      <br/>Bash
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=powershell" alt="PowerShell" width="65" height="65" />
+      <br/>PowerShell
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=php" alt="PHP" width="65" height="65" />
+      <br/>PHP
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=wordpress" alt="WordPress" width="65" height="65" />
+      <br/>WordPress
+    </td>
+  </tr>
+</table>
 
-<br/><br/>
+<br/>
 
 ![Cisco](https://img.shields.io/badge/CISCO-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 ![Vagrant](https://img.shields.io/badge/VAGRANT-1563FF?style=for-the-badge&logo=vagrant&logoColor=white)
@@ -102,10 +166,11 @@
 
 ### 📈 Estadísticas
 
-<div align="center">
+<div align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bgarciaa181&layout=compact&theme=dark&hide_border=true&title_color=00C7B7&langs_count=8" /> <img height="165" src="https://streak-stats.demolab.com/?user=bgarciaa181&theme=dark&hide_border=true&ring=00C7B7&fire=00C7B7&currStreakLabel=00C7B7&locale=es" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bgarciaa181&layout=compact&theme=dark&hide_border=true&title_color=00C7B7" />
-<img height="165" src="https://streak-stats.demolab.com/?user=bgarciaa181&theme=dark&hide_border=true&ring=00C7B7&fire=00C7B7&currStreakLabel=00C7B7&locale=es" />
+<br/><br/>
+
+<picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bgarciaa181/bgarciaa181/output/github-snake-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bgarciaa181/bgarciaa181/output/github-snake.svg" /> <img alt="snake" src="https://raw.githubusercontent.com/bgarciaa181/bgarciaa181/output/github-snake.svg" /> </picture> </div>
 
 <br/><br/>
 
