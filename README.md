@@ -89,6 +89,7 @@
 
 | Proyecto | Qué es | Stack |
 | :--- | :--- | :--- |
+| ⭐ **[dns-paso-a-paso](https://github.com/bgarciaa181/dns-paso-a-paso)** | **Servidor DNS con BIND9 montado desde cero, con la zona `bea.test` y documentado paso a paso** | **BIND9 / Vagrant / VirtualBox** |
 | [Test-sri](https://github.com/bgarciaa181/Test-sri) | Entorno LAMP con Vagrant y Debian Bookworm | Shell / Linux |
 | [practice-dhcp](https://github.com/bgarciaa181/practice-dhcp) | Prácticas de configuración de un servidor DHCP | Redes / Shell |
 | [Ud01_proyectBeaGarcia](https://github.com/bgarciaa181/Ud01_proyectBeaGarcia) | Proyecto de la UD1 de clase | Python |
