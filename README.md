@@ -165,27 +165,18 @@
 
 ### 📈 Estadísticas
 
-<div align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bgarciaa181&layout=compact&theme=dark&hide_border=true&title_color=00C7B7&langs_count=8" /> <img height="165" src="https://streak-stats.demolab.com/?user=bgarciaa181&theme=dark&hide_border=true&ring=00C7B7&fire=00C7B7&currStreakLabel=00C7B7&locale=es" />
+<div align="center"><img height="165" src="https://streak-stats.demolab.com/?user=bgarciaa181&theme=dark&hide_border=true&ring=00C7B7&fire=00C7B7&currStreakLabel=00C7B7&locale=es" />
+<div align="center">
+<img
+    height="165"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=maximo-sf&layout=compact&langs_count=6&hide_border=true&theme=github_dark&title_color=429C00&text_color=FFFFFF"
+    alt="Most used programming languages"
+  />
 
 <br/><br/>
 
 <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bgarciaa181/bgarciaa181/output/github-snake-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bgarciaa181/bgarciaa181/output/github-snake.svg" /> <img alt="snake" src="https://raw.githubusercontent.com/bgarciaa181/bgarciaa181/output/github-snake.svg" /> </picture> </div>
-
-<br/><br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bgarciaa181/bgarciaa181/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bgarciaa181/bgarciaa181/output/github-snake.svg" />
-  <img alt="snake" src="https://raw.githubusercontent.com/bgarciaa181/bgarciaa181/output/github-snake.svg" />
-</picture>
-
-</div>
-
 ---
-
-<div align="center">
-
-<img width="1920" height="1080" alt="banner" src="https://github.com/user-attachments/assets/14826c0c-4374-4b89-a2fb-2bf408a5893c"/>
 
 <br/><br/>
 
