@@ -184,6 +184,10 @@
 ---
 
 <br/><br/>
+<img width="100%" alt="banner" src="https://github.com/user-attachments/assets/14826c0c-4374-4b89-a2fb-2bf408a5893c"/>
+
+---
+
 
 💬 ¿Quieres hablar conmigo? Escríbeme a [bea.garciaa19@gmail.com](mailto:bea.garciaa19@gmail.com) o por [LinkedIn](https://www.linkedin.com/in/beatriz-garcia-cogolludo-898102362/)
 
