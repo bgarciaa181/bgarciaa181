@@ -153,21 +153,6 @@
 
 ---
 
-### 📁 Proyectos
-
-| Proyecto | Qué es | Stack |
-| :--- | :--- | :--- |
-| ⭐ **[dns-paso-a-paso](https://github.com/bgarciaa181/dns-paso-a-paso)** | **Servidor DNS con BIND9 montado desde cero, con la zona `bea.test` y documentado paso a paso** | **BIND9 / Vagrant / VirtualBox** |
-| [Test-sri](https://github.com/bgarciaa181/Test-sri) | Entorno LAMP con Vagrant y Debian Bookworm | Shell / Linux |
-| [practice-dhcp](https://github.com/bgarciaa181/practice-dhcp) | Prácticas de configuración de un servidor DHCP | Redes / Shell |
-| [Ud01_proyectBeaGarcia](https://github.com/bgarciaa181/Ud01_proyectBeaGarcia) | Proyecto de la UD1 de clase | Python |
-| [Lab-1-OptativaFundamentosProgramacion](https://github.com/bgarciaa181/Lab-1-OptativaFundamentosProgramacion) | Ejercicios del Lab 1 de Fundamentos de Programación | Python |
-| [hello-world-programming](https://github.com/bgarciaa181/hello-world-programming) | Mis primeros programas | Python |
-| [bgarciaa181.github.io](https://github.com/bgarciaa181/bgarciaa181.github.io) | Web sobre sostenibilidad | HTML |
-| [Trabajo-WordPress](https://github.com/bgarciaa181/Trabajo-WordPress) | Web hecha con WordPress | WordPress |
-
----
-
 ### 📈 Estadísticas
 
 <div align="center"><img height="165" src="https://streak-stats.demolab.com/?user=bgarciaa181&theme=dark&hide_border=true&ring=00C7B7&fire=00C7B7&currStreakLabel=00C7B7&locale=es" />
